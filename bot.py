@@ -15,7 +15,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.enums import ParseMode
 
-AUTHOR = "@n0fanru"
+AUTHOR = "@allcodny"
 
 MAX_URLS = 50
 MAX_PAGE_SIZE = 400

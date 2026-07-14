@@ -1,5 +1,5 @@
-[![eng](https://img.shields.io/badge/lang-en-en)](https://github.com/N0Fanru/URL-to-pdf-telebot/blob/main/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru?color=DCDCDC)](https://github.com/N0Fanru/URL-to-pdf-telebot/blob/main/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en)](https://github.com/allcodny/URL-to-pdf-telebot/blob/main/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru?color=DCDCDC)](https://github.com/allcodny/URL-to-pdf-telebot/blob/main/README-ru.md)
 
 ## About the bot
 A simple Telegram bot for converting **multiple** web pages to PDF format. The user can choose to download the file in standard size or optimized for mobile devices.
@@ -19,7 +19,7 @@ A simple Telegram bot for converting **multiple** web pages to PDF format. The u
    - Installed [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html)
   
 2. Cloning the repository
-   <br>`git clone https://github.com/N0Fanru/URL-to-pdf-telebot`
+   <br>`git clone https://github.com/allcodny/URL-to-pdf-telebot`
    <br>*or*
    <br>download as a ZIP file and extract it
 

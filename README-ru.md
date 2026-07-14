@@ -1,5 +1,5 @@
-[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/N0Fanru/URL-to-pdf-telebot/blob/main/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/N0Fanru/URL-to-pdf-telebot/blob/main/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/URL-to-pdf-telebot/blob/main/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/URL-to-pdf-telebot/blob/main/README-ru.md)
 
 ## О боте
 Простой телеграм бот для конвертации **нескольких** веб-страниц в формат PDF. Пользователь может выбрать скачать файл в обычном размере или с учелечнным для мобильных устройств.
@@ -19,7 +19,7 @@
    - Установленный [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html)
   
 2. Клонирование репозитория
-   <br>`git clone https://github.com/N0Fanru/URL-to-pdf-telebot`
+   <br>`git clone https://github.com/allcodny/URL-to-pdf-telebot`
    <br>*или*
    <br>скачать как ZIP файл и распаковать
 

@@ -45,9 +45,11 @@ async def convert_url_to_pdf(url: str, id: int, n: int, m: int, mobile: bool):
                 message_id=m
             )
             return False
-        title = BeautifulSoup(response.content, 'html.parser').title.string
+        title = BeautifulSoup(response.content, 'html.parser').title
         if title is None:
             title = "Сайт в pdf"
+        else:
+            title = title.string
         title = str(n) + ". " + title.translate(str.maketrans('', '', string.punctuation)) + ".pdf"
         if mobile:
             options_ = options_mobile
